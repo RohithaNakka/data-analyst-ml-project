@@ -1,4 +1,4 @@
-# data-analyst-ml-project
+# Data-Analyst-ML-Project
 🛍️ Customer Segmentation Using Machine Learning
 📌 Project Overview
 
